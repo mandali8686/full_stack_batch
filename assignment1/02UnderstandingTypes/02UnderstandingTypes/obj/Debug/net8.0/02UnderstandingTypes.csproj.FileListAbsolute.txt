@@ -1,0 +1,15 @@
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.deps.json
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.runtimeconfig.json
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.dll
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.sourcelink.json
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.dll
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/refint/02UnderstandingTypes.dll
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net8.0/ref/02UnderstandingTypes.dll
