@@ -1,0 +1,15 @@
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/bin/Debug/net8.0/Assignment02
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/bin/Debug/net8.0/Assignment02.deps.json
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/bin/Debug/net8.0/Assignment02.runtimeconfig.json
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/bin/Debug/net8.0/Assignment02.dll
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/bin/Debug/net8.0/Assignment02.pdb
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/Assignment02.AssemblyInfoInputs.cache
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/Assignment02.AssemblyInfo.cs
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/Assignment02.csproj.CoreCompileInputs.cache
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/Assignment02.sourcelink.json
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/Assignment02.dll
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/refint/Assignment02.dll
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/Assignment02.pdb
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/Assignment02.genruntimeconfig.cache
+/Users/mandali/Antra-batch/full_stack_batch/assignment1/Assignment02/Assignment02/obj/Debug/net8.0/ref/Assignment02.dll
